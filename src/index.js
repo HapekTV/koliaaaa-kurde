@@ -52,4 +52,4 @@ client.on('ready', () => {
   client.user.setActivity('RBTeam Music 💙');
   
 });
-client.login(process.config.token);
+client.login(process.config.DICORD_TOKEN);
