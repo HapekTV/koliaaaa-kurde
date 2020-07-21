@@ -1,1 +1,0 @@
-[![Run on Repl.it](https://repl.it/badge/github/HapekTV/koliaaaa-kurde)](https://repl.it/github/HapekTV/koliaaaa-kurde)
